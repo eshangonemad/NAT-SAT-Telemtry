@@ -51,3 +51,6 @@ footer{
     border-radius:100px;
     background-color: #4163c2c5;
 }
+main{
+    padding-inline: 10px;
+}
